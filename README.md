@@ -1,3 +1,6 @@
+UI:
+<img width="940" height="459" alt="image" src="https://github.com/user-attachments/assets/f66cdeb5-93e8-4948-8e24-a73d6034f2a8" />
+
 🌦️ India Weather Forecast App
 A React-based weather app that displays a 3-day forecast for major Indian cities using mock data or live weather API (via a toggle switch).
 
